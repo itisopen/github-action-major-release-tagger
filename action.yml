@@ -1,6 +1,6 @@
 name: "Major Release Tagger GitHub Action"
 description: "Major Release Tagger GitHub Action"
-author: hello@cloudposse.com
+author: hello@itisopen.net
 branding:
   icon: "file"
   color: "white"
